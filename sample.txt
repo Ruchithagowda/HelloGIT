@@ -1,0 +1,2 @@
+Hello ..i am Ruchitha
+This is my first document on git
